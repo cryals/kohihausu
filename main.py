@@ -58,7 +58,7 @@ def main():
             game.cafe_name = console.input("[bold yellow]Введите название: [/]").strip() or "Kohihausu"
             game.apply_name_bonuses()
             console.print(f"[green]Кофейня названа '{game.cafe_name}'![/]", justify="center")
-            skip = console.input("[bold yellow]Пропустить обучение? (да/нет): [/]").strip().lower() == "да"
+            skip = console.input("[bold yellow]Хотите пройти обучение? (да/нет): [/]").strip().lower() == "нет"
             game.skip_tutorial = skip
             choose_difficulty(game)
             game.start_new_game()

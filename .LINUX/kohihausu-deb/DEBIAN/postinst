@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "export KOHIHAUSU_SAVES=~/.kohihausu" >> /etc/profile.d/kohihausu.sh
+mkdir -p ~/.kohihausu
