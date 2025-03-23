@@ -1,7 +1,7 @@
 Package: kohihausu
-Version: 1.0.0
+Version: 1.0.1
 Architecture: amd64
-Maintainer: Your Name <als@stopco.ru>
+Maintainer: AL-S <als@stopco.ru>
 Description: A text-based cat café simulator
  Kohihausu is a text-based simulator where you manage a cat café.
  Buy products, hire staff, upgrade your café, and attract customers with adorable pets.

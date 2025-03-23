@@ -1,7 +1,7 @@
 ; Основные настройки
 [Setup]
 AppName=Kohihausu
-AppVersion=1.0.0
+AppVersion=1.0.1
 AppPublisher=xAI Games
 DefaultDirName={pf}\Kohihausu
 DefaultGroupName=Kohihausu
