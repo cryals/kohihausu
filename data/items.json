@@ -1,0 +1,41 @@
+{
+    "Оборудование": {
+        "Кофемашина": {"base_cost": 500, "bonus_type": "efficiency", "bonus_value": 0.2, "description": "Увеличивает эффективность персонала"},
+        "Миксер": {"base_cost": 300, "bonus_type": "comfort", "bonus_value": 5, "description": "Улучшает комфорт"},
+        "Профессиональная кофемолка": {"base_cost": 800, "bonus_type": "efficiency", "bonus_value": 0.3, "description": "Ещё больше эффективности"},
+        "Холодильник": {"base_cost": 600, "bonus_type": "comfort", "bonus_value": 10, "description": "Сохраняет продукты свежими"},
+        "Автомат для мороженого": {"base_cost": 1200, "bonus_type": "clients", "bonus_value": 15, "description": "Привлекает больше клиентов"},
+        "Печь для пиццы": {"base_cost": 1500, "bonus_type": "clients", "bonus_value": 20, "description": "Разнообразие меню"},
+        "Блендер": {"base_cost": 400, "bonus_type": "efficiency", "bonus_value": 0.15, "description": "Быстрое приготовление напитков"},
+        "Соковыжималка": {"base_cost": 700, "bonus_type": "clients", "bonus_value": 10, "description": "Свежие соки"},
+        "Машина для попкорна": {"base_cost": 900, "bonus_type": "clients", "bonus_value": 12, "description": "Дополнительный доход"},
+        "Автомат для газировки": {"base_cost": 1100, "bonus_type": "clients", "bonus_value": 14, "description": "Разнообразие напитков"},
+        "Профессиональный тостер": {"base_cost": 550, "bonus_type": "efficiency", "bonus_value": 0.2, "description": "Быстрый завтрак"}
+    },
+    "Интерьер": {
+        "Диваны": {"base_cost": 1000, "bonus_type": "comfort", "bonus_value": 10, "description": "Увеличивает комфорт"},
+        "Картины": {"base_cost": 200, "bonus_type": "reputation", "bonus_value": 5, "description": "Повышает репутацию"},
+        "Камин": {"base_cost": 1500, "bonus_type": "comfort", "bonus_value": 15, "description": "Тепло и уют"},
+        "Живые растения": {"base_cost": 400, "bonus_type": "comfort", "bonus_value": 8, "description": "Свежий воздух"},
+        "Аквариум": {"base_cost": 2000, "bonus_type": "clients", "bonus_value": 20, "description": "Привлекает посетителей"},
+        "Светильники": {"base_cost": 300, "bonus_type": "comfort", "bonus_value": 7, "description": "Уютное освещение"},
+        "Зеркала": {"base_cost": 250, "bonus_type": "reputation", "bonus_value": 4, "description": "Визуальное пространство"},
+        "Ковровое покрытие": {"base_cost": 800, "bonus_type": "comfort", "bonus_value": 9, "description": "Тепло и уют"},
+        "Декоративные подушки": {"base_cost": 150, "bonus_type": "comfort", "bonus_value": 6, "description": "Дополнительный комфорт"},
+        "Стеллажи для книг": {"base_cost": 500, "bonus_type": "reputation", "bonus_value": 6, "description": "Интеллектуальная атмосфера"},
+        "Декоративные свечи": {"base_cost": 100, "bonus_type": "comfort", "bonus_value": 5, "description": "Романтическая атмосфера"}
+    },
+    "Технологии": {
+        "POS-терминал": {"base_cost": 700, "bonus_type": "efficiency", "bonus_value": 0.25, "description": "Быстрее обслуживание"},
+        "Wi-Fi роутер": {"base_cost": 300, "bonus_type": "clients", "bonus_value": 10, "description": "Интернет для клиентов"},
+        "Мобильное приложение": {"base_cost": 5000, "bonus_type": "reputation", "bonus_value": 25, "description": "Заказы онлайн"},
+        "Умная кофейня": {"base_cost": 10000, "bonus_type": "efficiency", "bonus_value": 0.5, "description": "Автоматизация процессов"},
+        "Система умного освещения": {"base_cost": 2000, "bonus_type": "efficiency", "bonus_value": 0.15, "description": "Экономия энергии"},
+        "Электронное меню": {"base_cost": 1200, "bonus_type": "clients", "bonus_value": 15, "description": "Удобство выбора"},
+        "Система онлайн-бронирования": {"base_cost": 1500, "bonus_type": "clients", "bonus_value": 20, "description": "Увеличение клиентов"},
+        "Камеры видеонаблюдения": {"base_cost": 1800, "bonus_type": "reputation", "bonus_value": 10, "description": "Безопасность"},
+        "Аудиосистема": {"base_cost": 900, "bonus_type": "comfort", "bonus_value": 12, "description": "Музыкальное сопровождение"},
+        "Терминал для оплаты картами": {"base_cost": 600, "bonus_type": "efficiency", "bonus_value": 0.2, "description": "Быстрое обслуживание"},
+        "Программа лояльности": {"base_cost": 2500, "bonus_type": "clients", "bonus_value": 25, "description": "Повторные посещения"}
+    }
+}

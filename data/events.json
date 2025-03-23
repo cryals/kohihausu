@@ -1,0 +1,19 @@
+{
+    "Налоговая проверка": {"chance": 0.1, "effect": "penalty", "value": 500},
+    "Удачный день": {"chance": 0.2, "effect": "bonus", "value": 300},
+    "Поломка кофемашины": {"chance": 0.05, "effect": "penalty", "value": 1000},
+    "Кофейный фестиваль": {"chance": 0.15, "effect": "bonus", "value": 2000},
+    "Скачок популярности": {"chance": 0.1, "effect": "bonus", "value": 1500},
+    "Пожарная тревога": {"chance": 0.05, "effect": "penalty", "value": 2000},
+    "VIP-гость": {"chance": 0.08, "effect": "bonus", "value": 3000},
+    "Кража": {"chance": 0.03, "effect": "penalty", "value": 2500},
+    "Ремонт помещения": {"chance": 0.04, "effect": "penalty", "value": 1200},
+    "Приз за лучшее кафе": {"chance": 0.02, "effect": "bonus", "value": 4000},
+    "Проблемы с поставщиками": {"chance": 0.06, "effect": "penalty", "value": 800},
+    "Рекламная акция": {"chance": 0.1, "effect": "bonus", "value": 1000},
+    "Проблемы с персоналом": {"chance": 0.05, "effect": "penalty", "value": 1500},
+    "Выступление музыканта": {"chance": 0.07, "effect": "bonus", "value": 2500},
+    "Проблемы с кассой": {"chance": 0.03, "effect": "penalty", "value": 900},
+    "День рождения кафе": {"chance": 0.02, "effect": "bonus", "value": 3500},
+    "Проблемы с электричеством": {"chance": 0.04, "effect": "penalty", "value": 1100}
+}

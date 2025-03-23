@@ -1,0 +1,29 @@
+{
+    "drinks": {
+        "Эспрессо": {"base_price": 5, "base_cost": 2},
+        "Латте": {"base_price": 7, "base_cost": 3},
+        "Капучино": {"base_price": 6, "base_cost": 3},
+        "Американо": {"base_price": 4, "base_cost": 1},
+        "Мокка": {"base_price": 8, "base_cost": 4},
+        "Фраппе": {"base_price": 9, "base_cost": 5},
+        "Матча": {"base_price": 10, "base_cost": 6},
+        "Чай с молоком": {"base_price": 6, "base_cost": 3},
+        "Горячий шоколад": {"base_price": 7, "base_cost": 4},
+        "Смузи": {"base_price": 8, "base_cost": 5},
+        "Лимонад": {"base_price": 5, "base_cost": 2},
+        "Апельсиновый сок": {"base_price": 6, "base_cost": 3}
+    },
+    "desserts": {
+        "Пончик": {"base_price": 3, "base_cost": 1},
+        "Кекс": {"base_price": 4, "base_cost": 2},
+        "Круассан": {"base_price": 5, "base_cost": 2},
+        "Чизкейк": {"base_price": 7, "base_cost": 4},
+        "Тирамису": {"base_price": 8, "base_cost": 5},
+        "Эклер": {"base_price": 6, "base_cost": 3},
+        "Макарон": {"base_price": 9, "base_cost": 6},
+        "Брауни": {"base_price": 5, "base_cost": 3},
+        "Тарт": {"base_price": 6, "base_cost": 4},
+        "Печенье": {"base_price": 4, "base_cost": 2},
+        "Фруктовый салат": {"base_price": 7, "base_cost": 5}
+    }
+}

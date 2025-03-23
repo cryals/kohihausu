@@ -1,0 +1,13 @@
+{
+    "Баннер": {"base_cost": 400, "bonus_type": "reputation", "bonus_value": 10, "description": "Привлекает клиентов через репутацию"},
+    "Социальные сети": {"base_cost": 1000, "bonus_type": "clients", "bonus_value": 20, "description": "Больше посетителей"},
+    "ТВ-реклама": {"base_cost": 5000, "bonus_type": "reputation", "bonus_value": 30, "description": "Широкий охват"},
+    "Фестиваль кофе": {"base_cost": 10000, "bonus_type": "clients", "bonus_value": 50, "description": "Массовое привлечение"},
+    "Коллаб с блогером": {"base_cost": 3000, "bonus_type": "reputation", "bonus_value": 20, "description": "Популярность растёт"},
+    "Радиореклама": {"base_cost": 2000, "bonus_type": "clients", "bonus_value": 15, "description": "Широкий охват"},
+    "Реклама в метро": {"base_cost": 3500, "bonus_type": "clients", "bonus_value": 25, "description": "Много людей"},
+    "Промокоды": {"base_cost": 500, "bonus_type": "clients", "bonus_value": 10, "description": "Привлечение новых клиентов"},
+    "Реклама на билбордах": {"base_cost": 4000, "bonus_type": "reputation", "bonus_value": 20, "description": "Видимость на улицах"},
+    "Партнерство с местными бизнесами": {"base_cost": 1500, "bonus_type": "clients", "bonus_value": 18, "description": "Взаимная реклама"},
+    "Организация мастер-классов": {"base_cost": 2500, "bonus_type": "reputation", "bonus_value": 22, "description": "Обучение клиентов"}
+}

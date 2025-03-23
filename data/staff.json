@@ -1,0 +1,14 @@
+{
+    "Бариста": {"base_salary": 100, "skill": 1.0},
+    "Повар": {"base_salary": 150, "skill": 1.2},
+    "Официант": {"base_salary": 80, "skill": 0.8},
+    "Уборщик": {"base_salary": 70, "skill": 0.5},
+    "Маркетолог": {"base_salary": 200, "skill": 1.5},
+    "Менеджер": {"base_salary": 300, "skill": 2.0},
+    "Шеф-повар": {"base_salary": 500, "skill": 2.5},
+    "Кассир": {"base_salary": 90, "skill": 0.9},
+    "Администратор": {"base_salary": 250, "skill": 1.8},
+    "Бармен": {"base_salary": 120, "skill": 1.1},
+    "Кондитер": {"base_salary": 180, "skill": 1.4},
+    "HR-менеджер": {"base_salary": 220, "skill": 1.6}
+}

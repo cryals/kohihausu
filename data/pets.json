@@ -1,0 +1,14 @@
+{
+    "Котик": {"base_cost": 300, "bonus_value": 10},
+    "Собачка": {"base_cost": 500, "bonus_value": 15},
+    "Хомячок": {"base_cost": 100, "bonus_value": 5},
+    "Попугай": {"base_cost": 400, "bonus_value": 12},
+    "Кролик": {"base_cost": 600, "bonus_value": 18},
+    "Енот": {"base_cost": 1500, "bonus_value": 25},
+    "Мини-пиг": {"base_cost": 2000, "bonus_value": 30},
+    "Черепаха": {"base_cost": 250, "bonus_value": 8},
+    "Игуана": {"base_cost": 700, "bonus_value": 14},
+    "Морская свинка": {"base_cost": 150, "bonus_value": 7},
+    "Паук-птицеед": {"base_cost": 300, "bonus_value": 11},
+    "Змея": {"base_cost": 800, "bonus_value": 16}
+}
